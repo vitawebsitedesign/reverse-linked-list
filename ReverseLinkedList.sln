@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedList", "ReverseLinkedList\ReverseLinkedList.csproj", "{1AC7B8B2-B681-4F78-8814-6400C01C1475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseLinkedListTest", "ReverseLinkedListTest\ReverseLinkedListTest.csproj", "{5EB34B7D-2286-4F93-A504-4AC90DCF74CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC7B8B2-B681-4F78-8814-6400C01C1475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC7B8B2-B681-4F78-8814-6400C01C1475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC7B8B2-B681-4F78-8814-6400C01C1475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC7B8B2-B681-4F78-8814-6400C01C1475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB34B7D-2286-4F93-A504-4AC90DCF74CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB34B7D-2286-4F93-A504-4AC90DCF74CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB34B7D-2286-4F93-A504-4AC90DCF74CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB34B7D-2286-4F93-A504-4AC90DCF74CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
